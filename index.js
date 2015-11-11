@@ -2,9 +2,9 @@ module.exports = {
     book: {
         assets: "./book",
         js: [
-            "jquery-2.1.1.min.js",
-            "underscore-min.js",
-            "sequence-diagram-min.js",
+            "http://cdn.staticfile.org/jquery/2.1.1-rc2/jquery.min.js",
+            "http://cdn.staticfile.org/underscore.js/1.7.0/underscore-min.js",
+            "http://cdn.staticfile.org/js-sequence-diagrams/1.0.4/sequence-diagram-min.js",
             "plugin.js"
         ],
         css: [
